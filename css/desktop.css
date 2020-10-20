@@ -3,4 +3,17 @@
     .welcome {
         color: red;
     }
+
+    div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 1200px;
+    }
+
+    img {
+        width: 50%;
+        height: 500px;
+    }
+  
 }
